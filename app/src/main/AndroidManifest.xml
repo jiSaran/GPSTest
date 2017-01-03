@@ -22,10 +22,10 @@
         </activity>
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyCi94TR4JFNKPiB8nZDi71ZADM8AaTw73I"/>
+            android:value="Map API Key here"/>
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="50ac5b1097184ea1c282066a89dca5a51e550be9"
+            android:value="Crashlytics API key here"
             />
     </application>
 
